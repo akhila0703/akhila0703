@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akhila0703
 - 👀 I’m interested in learning and working on new tech
-- 🌱 I’m currently learning full stack web development
+- 🌱 I’m currently learning python web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on linkedin @akhila_bojji or over here @akhila0703
 - 😄 Pronouns: she/her
